@@ -205,7 +205,7 @@ y se copian las siguientes líneas al archivo
 192.168.43.192 erick
 
 127.0.0.1 localhost
-127.0.1.1 erick
+127.0.1.1 erick-Nitro-AN515-52
  ```
 
 
